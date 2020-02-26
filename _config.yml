@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+title: 薅羊毛小分队-薅羊毛|活动线报|免费赚钱
+description: 分享网赚线报,免费资源,免费会员账号和免费赚钱,免费活动,分享最新活动线报项目,有奖活动信息，而这一切都是免费分享给大家。
+keywords: 微信线报,网赚,网上赚钱,百度网盘会员账号,爱奇艺会员账号,调查赚钱,网上兼职,薅羊毛,有奖活动,活动线报群
+author: 薅羊毛小分队
+footerText: 'Copyright © 2020'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -46,7 +46,7 @@ extAdsense: false
 
 # 腾讯MTA移动分析,不需要请设置为false
 # _includes/ext-adsense.html 里面修改为自己的配置
-extMTA: true
+extMTA: false
 
 # 百度收录自动推送,不需要请设置为false
 extBaidu: true
@@ -56,19 +56,5 @@ extMath: false
 
 # 友情链接
 links:
-  - title: TMaize的个人博客
-    url: http://blog.tmaize.net
-  - title: 文科中的技术宅
-    url: https://www.townwang.com
-  - title: Auuu Nya Blog
-    url: http://mu1er.cn
-  - title: 春风十里
-    url: https://www.geek-era.com
-  - title: 阿川的个人博客
-    url: https://achuan.io
-  - title: 魏文成博客
-    url: https://www.wwc.ren
-  - title: 06m
-    url: https://www.06m.me
-  - title: 达达知识
-    url: https://www.dadapush.com/
+  - title: 薅羊毛小分队
+    url: https://yzcx.github.io
