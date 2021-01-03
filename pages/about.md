@@ -3,27 +3,25 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> Hello 陌生人，欢迎访问我的博客，有点懒，偶尔更新 抵制腾讯从你我做起，如有说话要对我说欢迎在[留言板](chat.html)留言即可
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量
+## 2021年要完成的任务
 
-主题使自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，欢迎 Star&Fork。另喜欢本博客的欢迎**添加友链**，在[留言板](chat.html)留言即可
+- 赚钱买一个房子，不再家人跟我流离浪荡。—（未完成）
 
-## 相关技能
+- 赚钱换一台车，车子有点旧了不好开（未完成）
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
+- 来一场说走就走的旅行（未完成）
 
-- 熟悉 Java，NodeJs,Go 等后端语言
+- 找一份稳定的工作 能安定下来做以上未完成的事情
 
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
+- 2020忘记一些事一些人（已完成）
 
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
-
-- Linux 的简单使用，各种服务的搭建
-
-- 能够使用 Git/SVN 对代码版本进行控制
+- 好好疼自己，吃好睡好（已完成）
 
 ## 联系我
 
-- QQ : 1772314831
-
+- Email : Veneno1103@gmail.com
+- Tg : Venen1103
+- TEL :+1 87648874
+- 
