@@ -21,7 +21,5 @@ title: 关于我
 
 ## 联系我
 
-- Email : Veneno1103@gmail.com
 - Tg : Venen1103
-- TEL :+1 87648874
-- 
+
