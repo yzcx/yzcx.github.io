@@ -32,6 +32,8 @@ menu:
 #    url: /pages/search.html
 #  - title: 友链
 #    url: /pages/links.html
+  - title: 我在听
+    url: /pages/music.html
   - title: 留言
     url: /pages/chat.html
   - title: 关于
