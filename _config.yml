@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: 薅羊毛小分队-薅羊毛|活动线报|免费赚钱
-description: 分享网赚线报,免费资源,免费会员账号和免费赚钱,免费活动,分享最新活动线报项目,有奖活动信息，而这一切都是免费分享给大家。
-keywords: 微信线报,网赚,网上赚钱,百度网盘会员账号,爱奇艺会员账号,调查赚钱,网上兼职,薅羊毛,有奖活动,活动线报群
-author: 薅羊毛小分队
-footerText: 'Copyright © 2020'
+title: Veneno Blog eeee.....
+description: 分享Veneno毒药的个人心情杂谈
+keywords: Veneno，毒药
+author: Veneno
+footerText: 'Copyright © 2021'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -26,12 +26,12 @@ tucaoUrl: https://support.qq.com/product/86335
 menu:
   - title: 首页
     url: /
-  - title: 归类
-    url: /pages/categories.html
-  - title: 搜索
-    url: /pages/search.html
-  - title: 友链
-    url: /pages/links.html
+#  - title: 归类
+#    url: /pages/categories.html
+#  - title: 搜索
+#    url: /pages/search.html
+#  - title: 友链
+#    url: /pages/links.html
   - title: 留言
     url: /pages/chat.html
   - title: 关于
@@ -56,5 +56,5 @@ extMath: false
 
 # 友情链接
 links:
-  - title: 薅羊毛小分队
+  - title: Veneno
     url: https://yzcx.github.io
