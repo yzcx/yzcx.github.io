@@ -2,4 +2,5 @@
 layout: mypost
 title: 关于我
 ---
-<iframe src="http://m.iptv222.com" frameborder="0" width="300" scrolling="No" height="200" leftmargin="0" topmargin="0"></iframe>
+<iframe src="http://m.iptv222.com/iptv.php" width="300" height="200" frameborder="0" scrolling="no"></iframe>
+
